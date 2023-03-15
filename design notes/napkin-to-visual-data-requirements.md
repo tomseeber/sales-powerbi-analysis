@@ -4,7 +4,7 @@
 
 ## Opening Page
 
-![Opening Napkin Drawing Page](/Users/tom/Library/CloudStorage/OneDrive-WujiXuanLifeWellnessLtd/Powerbi visualizations/sales-powerbi-analysis/design notes/napkin drawings/opening page.png)
+![Opening Napkin Drawing Page](./napkin%20drawings/opening%20page.png)
 
 
 
@@ -48,7 +48,7 @@ Requires lat and longitude. ( we don't have that, but we do have addresses).  Wi
 
 ## Customer Details Page
 
-![Customer Details Page](/Users/tom/Library/CloudStorage/OneDrive-WujiXuanLifeWellnessLtd/Powerbi visualizations/sales-powerbi-analysis/design notes/napkin drawings/customer detailpage.png)
+![Customer Details Page](./napkin%20drawings/customer%20detailpage.png)
 
 ### Visualizations on Napkin
 
@@ -94,4 +94,53 @@ This should have an added slicer with limeted interactions for this table.
 #### Treemap of the categories
 
 This treemap is a general visualization of the customer preferences as far as what they buy
+
+## Regional Informal Details Page
+
+![Regional Informal Details Page](./napkin%20drawings/Regional%20information.png)
+
+### Visualizations on Napkin
+
+#### Boxes on Side
+
+No Really data needed.
+
+
+
+#### Total Sales $$$ Card per Region ( aka State)
+
+Requires aggregate of all order details times amount, and price data with discount applied.  DAX field required.
+
+#### Total Sales Volume Card per Region ( aka State)
+
+Requires aggregate of all count of orders.  DAX field required.
+
+#### State Slicer
+
+State/region slicer from shipping address.  Should include from the order region
+
+#### Month Slicer
+
+State/region slicer from shipping address.  Should include from the order month /year 
+
+#### Sales Map
+
+Orders in slicer month's that  is from the current salesman.  
+
+
+#### Last 12 months Bar and Line Trend total sales trend Graph for the Region
+
+Requires all sum of the product cost, times amount, with the discount applied.  DAX field required.
+
+#### Last 12 months Bar and Line Trend volume trend Graph for the region
+
+Requires aggregate of all count of orders.  DAX field required
+
+#### Best Customers  ( Top n Table)
+
+Should have customers' data for first and last name, address ( consolidated and put together) with text wrap,  phone, and total order amount (sum from the  Dax field)
+
+#### Hot Items in Region ( top n Table)
+
+This is a top N, most volume data, with some information on supplies amount, volume, and dollar amounts sold in the region. 
 
