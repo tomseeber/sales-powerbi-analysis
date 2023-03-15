@@ -9,22 +9,16 @@ Napkin Drawings were created with the GoodNotes program on Ipad.
 
 ## Design Process 
 
-### Developing a User Profile
-
-
-
-### User Story
-
-### Napkin Drawing
-
-
-
-
+More Info Coming Soon
 
 ## Data Cleaning
 
-
+More Info Coming Soon.
 
 ## Final Power BI Report
 
 [Here is Final Power BI report constructed.](./sample-sale-analysis.pbix)
+
+## About Me
+
+Find out more about me or reach out via thomasmseeber@gmail.com or [my personal linkedIN](https://www.linkedin.com/in/thomasseeber/)
