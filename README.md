@@ -25,7 +25,7 @@ To create a more meaningful set of dashboards we created a user profile with lik
 
 ### Napkin Drawings
 
-Given the basic persona of who, we created some using Goodnotes.  
+Given the basic persona of who, we created some nakpin Goodnotes.  
 
 * [Open Page of Dashboard](/design%20notes/napkin%20drawings/opening%20page.pdf)
 * [Regional Information Dashboard](/design%20notes/napkin%20drawings/Regional%20information.pdf)
